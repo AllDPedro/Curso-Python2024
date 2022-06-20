@@ -1,0 +1,9 @@
+cd + pasta que deseje criar o ambiente virtual
+
+depois execute o comando python -m venv ( ' venv ' ou outro nome para a pasta)
+
+env(nome)\Script\activate.bat  (para executar o ambiente virtual)
+
+agora só dar python (nome do arquivo a ser executado).
+
+deactivate (para desativar o ambiente virtual)
